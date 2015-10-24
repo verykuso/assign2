@@ -105,9 +105,3 @@ void draw() {
      break;
      }
 }
-void keyPressed(){
-
-}
-void keyReleased(){
-
-}
